@@ -1,0 +1,7 @@
+{
+  "name": "AeternumPaint",
+  "description": "Paint, sketch and create with layers, brushes, stacks, and fluid touch gestures right in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
